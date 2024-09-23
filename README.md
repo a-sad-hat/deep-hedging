@@ -1,2 +1,2 @@
 # deep-hedging
-Delta hedging of simple 2 stock simulated portfolio using artificial neural network
+Delta hedging of simulated portfolio of an option dependant on 2 simulated stocks using artificial neural network
